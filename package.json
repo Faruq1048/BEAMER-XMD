@@ -38,6 +38,7 @@
         "google-tts-api": "^2.0.2",
         "lottie-web": "^5.13.0",
         "moment-timezone": "^0.5.45",
+        "wa-sticker-formatter": "^4.4.4",
         "malvin-btns": "^1.1.1",
         "kango-wa": "1.0.4",
         "mumaker": "^2.0.0",

@@ -94,7 +94,7 @@ Fast • Stable • Powerful • Stylish
 
 <br><br>
 
-<a href="https://dashboard.katabump.com/auth/login#5651c1">
+<a href="https://rl.katabump.fr/5651c1">
 <img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge">
 </a>
 

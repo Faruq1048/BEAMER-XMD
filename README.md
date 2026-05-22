@@ -18,7 +18,7 @@ Fast • Stable • Powerful • Stylish
 
 <br>
 <p align="center">
-  <a href="https://youtu.be/CN63hwHqaN0?si=HfH-omG9U0RYRi9u">
+  <a href="https://youtu.be/qNsGNvtb5GU?si=RvUXGTO8BeSQQTGe">
     <img src="https://img.shields.io/badge/HOW%20TO%20DEPLOY-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>

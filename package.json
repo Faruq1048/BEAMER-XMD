@@ -1,6 +1,6 @@
 {
     "name": "BEAMER XMD",
-    "version": "1.2.0",
+    "version": "2.0.0",
     "description": "WhatsApp bot inspired by BMW and DODGE",
     "main": "index.js",
     "type": "commonjs",
